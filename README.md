@@ -22,8 +22,10 @@ python3 texteditor.py
 
 ## Images
 
-1-  
+1-  <img width="1366" height="736" alt="Ekran görüntüsü_2026-05-11_23-05-33" src="https://github.com/user-attachments/assets/067a5e78-2602-407c-96ec-4f062d8ed44d" />
 
-2-  
+2-  <img width="1366" height="736" alt="Ekran görüntüsü_2026-05-11_23-05-33" src="https://github.com/user-attachments/assets/706484e9-6442-4f4a-b210-2c392d0497f7" />
 
-3-  
+
+3-  <img width="1366" height="736" alt="Ekran görüntüsü_2026-05-11_23-04-27" src="https://github.com/user-attachments/assets/252ea23d-6701-479d-912a-02de98c04612" />
+
